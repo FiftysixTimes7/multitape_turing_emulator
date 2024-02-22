@@ -1,5 +1,7 @@
 # Multitape Turing Emulator
 
+A simple, normative, and dynamic multitape turing machine emulator.
+
 ## Compilation and usage
 
 You can use CMake to build the program:
